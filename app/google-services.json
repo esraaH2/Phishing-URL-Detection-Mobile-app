@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794953396848",
+    "project_id": "phishingurl-e797e",
+    "storage_bucket": "phishingurl-e797e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794953396848:android:3867261ef03b2ca3fdbab5",
+        "android_client_info": {
+          "package_name": "com.example.a199870_esra_hussein_ulrdetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5b7RapLZlLIxPQz3nEeNqoz9eM8uHCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
