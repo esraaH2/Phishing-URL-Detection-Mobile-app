@@ -5,7 +5,7 @@ An Android application designed to help users identify unsafe or phishing URLs a
 ---
 
 ## 📌 Problem Statement
-Many individuals in Malaysia continue to struggle with identifying unsafe or phishing URLs, especially those received via SMS, WhatsApp, and email. Limited digital awareness increases the risk of data theft, identity fraud, and online scams.
+Many individuals continue to struggle with identifying unsafe or phishing URLs, especially those received via SMS, WhatsApp, and email. Limited digital awareness increases the risk of data theft, identity fraud, and online scams.
 
 In alignment with **UN Sustainable Development Goal 4 (Quality Education)**, this project aims to enhance digital literacy and cybersecurity awareness by providing users with an educational and practical mobile application for detecting malicious links.
 
@@ -83,7 +83,6 @@ The application follows a clean MVVM-based architecture:
 ---
 
 ## 🎓 Academic Context
-This project was developed as part of an academic assignment focusing on:
 - Mobile application development
 - Data persistence
 - Cloud integration
@@ -93,9 +92,7 @@ This project was developed as part of an academic assignment focusing on:
 ---
 
 ## 📬 Contact
-**Developer:** Esra Hussein  
-📧 Email: *(optional)*  
-🔗 LinkedIn: *(optional)*
+**Developer:** Esra  
 
 ---
 
